@@ -60,6 +60,12 @@ Steps:
 4. Adjust attenuator until **Q factor = 6.00 ± 0.05**.  
 
 ---
+## Graphical output
+<img width="1918" height="985" alt="image" src="https://github.com/user-attachments/assets/466ee797-aefd-47e0-a0f0-6f3cbde0300d" />
+<img width="1918" height="972" alt="image" src="https://github.com/user-attachments/assets/1155b463-3268-4ee2-b5e0-e5b5c84e4417" />
+
+## Theoretical output
+<img width="1080" height="1517" alt="image" src="https://github.com/user-attachments/assets/765540b4-1113-4714-849b-8615e5d0bb36" />
 
 ## Report
 Your report should include:
@@ -71,3 +77,7 @@ Your report should include:
 - Discussion of differences between analytical and simulation results.  
 
 ---
+## Result
+The receiver sensitivity obtained analytically and through simulation are closely matched, with minor differences due to practical effects in simulation. Thus, the aim of determining minimum received power for a given Q-factor is successfully achieved and validated
+
+
